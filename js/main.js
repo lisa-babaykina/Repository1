@@ -38,4 +38,7 @@ $(document).ready(function () {
       $(`[data-floor=${usCurrentFloor}]`).toggleClass("current-floor");
     }
   });
+  
+  //внесем изменения
+  //сюда необходимо вставить новую функцию...
 });
